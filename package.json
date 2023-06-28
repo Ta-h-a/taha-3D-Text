@@ -17,5 +17,8 @@
     "lil-gui": "^0.18.1",
     "three": "^0.153.0",
     "vercel": "^31.0.0"
+  },
+  "directories": {
+    "output": "dist"
   }
 }
